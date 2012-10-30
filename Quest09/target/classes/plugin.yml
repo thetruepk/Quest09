@@ -1,0 +1,11 @@
+name: Quest08
+main: edu.unca.jlmccask.Quest08.Quest08
+version: 0.1
+
+commands:
+   command:
+      description: A Command
+      usage: /<command> 
+	ban:
+		description: Bans a player
+		usage: /ban <player_name>
